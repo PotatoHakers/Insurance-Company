@@ -1,0 +1,16 @@
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.csproj.AssemblyReference.cache
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.csproj.ResolveComReference.cache
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Курсовая___Страховая_компания.FizClient.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Курсовая___Страховая_компания.Form1.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Курсовая___Страховая_компания.FormEmployees.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Курсовая___Страховая_компания.FormWithDateBase.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Курсовая___Страховая_компания.InfoForm.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Курсовая___Страховая_компания.InsuranceCompanyMenu.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\Курсовая___Страховая_компания.Pay.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.Properties.Resources.resources
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.csproj.GenerateResource.cache
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.AssemblyInfoInputs.cache
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.AssemblyInfo.cs
+C:\Users\KompMaster\source\repos\Курсовая - Страховая компания\Курсовая - Страховая компания\obj\Debug\net6.0-windows\InsuranceCompany.csproj.CoreCompileInputs.cache
